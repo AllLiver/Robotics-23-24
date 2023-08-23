@@ -3,4 +3,4 @@
 Robots :)
 
 # First design
-![first design](images/robotDesign.pdf)
+![first design](images/robotDesign.png)
