@@ -1,6 +1,6 @@
 # Robotics 2023-24
 
-Robots :)
+VEX over under competition
 
 # First design
 
