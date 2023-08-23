@@ -3,4 +3,4 @@
 Robots :)
 
 # First design
-![first design]([https://github.com/AllLiver/Robotics-23-24/blob/main/images/robotDesign.png)
+![first design](https://allliver.github.io/Robotics-23-24/images/robotDesign.png)
