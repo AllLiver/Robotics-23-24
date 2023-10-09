@@ -20,10 +20,12 @@ We are still missing
 The grabber is comprised of two belt mechanisms designed to intake and hold the tri-ball in place
 
 # New chassis
+![new chassis](https://github.com/AllLiver/Robotics-23-24/blob/main/images/IMG_2512.HEIC)
 The new chassis has
  - Improved stability
  - Mounts for the brain and antenna
  - Cable management
+ - Camera
 But still lacks
 - Battery mount
-- Mount for grabberr
+- Mount for grabber
