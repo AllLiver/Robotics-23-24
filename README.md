@@ -20,7 +20,7 @@ We are still missing
 The grabber is comprised of two belt mechanisms designed to intake and hold the tri-ball in place
 
 # New chassis
-![new chassis]([https://github.com/AllLiver/Robotics-23-24/blob/main/images/IMG_2512.HEIC](https://github.com/AllLiver/Robotics-23-24/blob/4612b3a0f6c68321fd17e28880086f27495f7a52/images/newChassis.png))
+![new chassis](https://github.com/AllLiver/Robotics-23-24/blob/4612b3a0f6c68321fd17e28880086f27495f7a52/images/newChassis.png)
 The new chassis has
  - Improved stability
  - Mounts for the brain and antenna
