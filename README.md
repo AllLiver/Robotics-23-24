@@ -15,3 +15,15 @@ We are still missing
 - A place for the brain
 - Any semblance of cable management
 - The grabber mechanism
+
+# Grabber
+The grabber is comprised of two belt mechanisms designed to intake and hold the tri-ball in place
+
+# New chassis
+The new chassis has
+ - Improved stability
+ - Mounts for the brain and antenna
+ - Cable management
+But still lacks
+- Battery mount
+- Mount for grabberr
